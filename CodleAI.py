@@ -1,4 +1,4 @@
-from ipywidgets import IntText, IntSlider, Button, HBox, Output, interactive
+from ipywidgets import IntText, IntSlider, Button, HBox, Output, interactive, VBox
 from IPython.display import display, clear_output
 import matplotlib.pyplot as plt
 import numpy as np
